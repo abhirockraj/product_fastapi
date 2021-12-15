@@ -1,0 +1,4 @@
+fastapi==0.70.1
+psycopg2==2.9.2
+psycopg2_binary==2.9.2
+pydantic==1.8.2
